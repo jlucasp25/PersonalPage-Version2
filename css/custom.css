@@ -363,7 +363,7 @@ header .navbar.sticky-header {
 
 .section-title h2 {
     color: #ff5d56;
-  /*  font-family: 'Berkshire Swash', cursive;*/
+    /*  font-family: 'Berkshire Swash', cursive;*/
     font-weight: normal;
     font-size: 36px;
 }
@@ -1735,4 +1735,14 @@ header .navbar.sticky-header {
     .testimonial-pagination {
         margin-top: 0;
     }
+}
+
+/* Custom CSS */
+
+.portfolio-detail-image {
+    transition: transform 0.25s ease;
+}
+
+.portfolio-detail-image:hover {
+    transform: scale(3.5);
 }
