@@ -1767,3 +1767,10 @@ header .navbar.sticky-header {
 .single-portfolio-overlay > h3 {
     font-size: 10px;
 }
+
+
+
+.counter-single {
+    padding-bottom: 12px;
+    height: fit-content;
+}
